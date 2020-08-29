@@ -1,0 +1,8 @@
+{
+  "name": "social-ai-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/elangosundar/social-ai-test.git",
+  "author": "Elangovan",
+  "license": "MIT"
+}
