@@ -1,1 +1,1 @@
-# social-ai-test
+# social-ai-tests
