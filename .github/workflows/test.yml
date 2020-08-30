@@ -10,5 +10,5 @@ jobs:
       - name: add badges
         uses: elangosundar/social-ai@master
         with:
-          GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
           social-icons: 'twitter'
