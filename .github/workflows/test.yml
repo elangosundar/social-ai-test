@@ -11,4 +11,4 @@ jobs:
         uses: elangosundar/social-ai@master
         with:
           GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
-          social-icons: 'twitter'
+          social-icons: 'twitter, twitter'
