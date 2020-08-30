@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: add badges
+      - name: add social icons
         uses: elangosundar/social-ai@master
         with:
           GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
