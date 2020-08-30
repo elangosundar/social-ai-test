@@ -1,3 +1,3 @@
 # social-ai-test
 
-Social AI Test
+Social AI Test.
